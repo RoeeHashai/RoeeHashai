@@ -20,6 +20,8 @@
 <h3 align="left">latest Projects:</h3>
 
 - Arkanoid
+  ![ezgif-4-cdede10fb8](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/385763e5-9102-42cb-b6e4-e7bdaa5036f0)
+  
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roeehashai&show_icons=true&locale=en&layout=compact" alt="roeehashai" /></p>
