@@ -26,9 +26,3 @@
 - Multiple Frames Bouncing Ball Animation
 
 ![ezgif-5-8a5708abab](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/97328f6a-6dbc-4e66-b461-eb00e5a5b1a9)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roeehashai&show_icons=true&locale=en&layout=compact" alt="roeehashai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roeehashai&show_icons=true&locale=en" alt="roeehashai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roeehashai&" alt="roeehashai" /></p>
