@@ -1,3 +1,5 @@
+![Blue Geometric Technology LinkedIn Banner](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/d6550ed5-b66a-4ab6-9de5-fe6bd026723a)
+
 <h1 align="center">Hi 👋, I'm Roee Hashai</h1>
 <h3 align="center">I'm A computer science student with a fervent passion for learning and exploring a wide range of programming topics</h3>
 
