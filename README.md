@@ -19,10 +19,14 @@
 
 <h3 align="left">latest Projects:</h3>
 
-- Arkanoid
+- **Arkanoid**
 
+Arkanoid is a classic brick-breaking game where players control a paddle to bounce a ball and break bricks. My version of Arkanoid includes different levels and challenging gameplay elements. The full code is available on my [GitHub Repository](https://github.com/RoeeHashai/Arkanoid). Feel free to check it out and enjoy playing!
+  
 ![ezgif-4-f93b36236d](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/94549d4c-322f-4864-b5fa-733b80d347cb)
 
-- Multiple Frames Bouncing Ball Animation
+- **Multiple Frames Bouncing Ball Animation**
 
+The Multiple Frames Bouncing Ball Animation project is a graphical user interface application that demonstrates ball animation across multiple frames. It showcases the implementation of smooth and visually appealing ball movement in a multi-frame environment. The complete code is hosted on my [GitHub Repository](https://github.com/RoeeHashai/BouncingBallAndLineAnimation). Dive in, explore the code, and create your animations!
+  
 ![ezgif-5-8a5708abab](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/97328f6a-6dbc-4e66-b461-eb00e5a5b1a9)
