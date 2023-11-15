@@ -23,8 +23,7 @@
 
 Discover object detection simplicity with our YOLOv8 app. Real-time analysis of images, videos, webcams, and YouTube URLs. Find the project code on [GitHub Repository](https://github.com/RoeeHashai/Object-Detection-WebApp), and use this as a foundation for creating your own straightforward object detection and tracking web app.
 
-![9](https://github.com/RoeeHashai/Object-Detection-Tracking-App/assets/114341594/e2b5c1cf-5d87-4d65-805d-164e6a6d4f16)
-
+![9](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/06b93dc4-7f77-463d-998a-507e1a16b4c5)
 
 - **Arkanoid**
 
