@@ -24,7 +24,7 @@
 
 Snake AI is a project that implements a Snake game with AI controlled by a Reinforcement Learning (RL) algorithm. The AI agent learns to navigate the game environment using a Deep Q-Network (DQN) to achieve the highest score possible. Find the project code on [GitHub Repository](https://github.com/RoeeHashai/SnakeAI), hope you enjoy teaching an AI to play Snake
 
-
+![ezgif com-video-to-gif-converted-3](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/b70ad0a9-239a-4fee-b4fd-5a99d2d9c959)
 
 
 - **Object Detection And Tracking App**
