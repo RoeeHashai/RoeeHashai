@@ -19,6 +19,14 @@
 
 <h3 align="left">latest Projects:</h3>
 
+
+- **SnakeAI Reinforcement Learning**
+
+Snake AI is a project that implements a Snake game with AI controlled by a Reinforcement Learning (RL) algorithm. The AI agent learns to navigate the game environment using a Deep Q-Network (DQN) to achieve the highest score possible. Find the project code on [GitHub Repository](https://github.com/RoeeHashai/SnakeAI), hope you enjoy teaching an AI to play Snake
+
+
+
+
 - **Object Detection And Tracking App**
 
 Discover object detection with YOLOv8 app. Real-time analysis of images, videos, webcams, and YouTube URLs. Find the project code on [GitHub Repository](https://github.com/RoeeHashai/Object-Detection-WebApp), and use this as a foundation for creating your own object detection and tracking web app.
