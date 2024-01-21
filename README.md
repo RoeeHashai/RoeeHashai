@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roeehashai&label=Profile%20views&color=0e75b6&style=flat" alt="roeehashai" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning topics using Pytorch Framework**
+- 🌱 I’m currently learning **Full Stack Development And Building A Social Network App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoeeHashai?tab=repositories](https://github.com/RoeeHashai?tab=repositories)
 
