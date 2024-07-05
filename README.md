@@ -16,29 +16,40 @@
 
 
 
-<h3 align="left">latest Projects:</h3>
+# Recent Projects:
 
+### Full-Stack Facebook-Like Web App
 
-- **SnakeAI Reinforcement Learning**
+I developed a full end-to-end full-stack Facebook-like web application using React for the front end, Node.js for the back end, and MongoDB for the database.
+
+### C Data Structure: Cache
+
+Implemented a cache-like data structure in C to optimize data retrieval processes.
+
+### C Shell Simulation
+
+Created a C shell that simulates the shell environment with support for multiprocessing.
+
+### SnakeAI Reinforcement Learning
 
 Snake AI is a project that implements a Snake game with AI controlled by a Reinforcement Learning (RL) algorithm. The AI agent learns to navigate the game environment using a Deep Q-Network (DQN) to achieve the highest score possible. Find the project code on [GitHub Repository](https://github.com/RoeeHashai/SnakeAI), hope you enjoy teaching an AI to play Snake
 
 ![ezgif com-video-to-gif-converted-3](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/b70ad0a9-239a-4fee-b4fd-5a99d2d9c959)
 
 
-- **Object Detection And Tracking App**
+### Object Detection And Tracking App
 
 Discover object detection with YOLOv8 app. Real-time analysis of images, videos, webcams, and YouTube URLs. Find the project code on [GitHub Repository](https://github.com/RoeeHashai/Object-Detection-WebApp), and use this as a foundation for creating your own object detection and tracking web app.
 
 ![9](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/06b93dc4-7f77-463d-998a-507e1a16b4c5)
 
-- **Arkanoid**
+### Arkanoid
 
 Arkanoid is a classic brick-breaking game where players control a paddle to bounce a ball and break bricks. My version of Arkanoid includes different levels and challenging gameplay elements. The full code is available on my [GitHub Repository](https://github.com/RoeeHashai/Arkanoid). Feel free to check it out and enjoy playing!
   
 ![ezgif-4-f93b36236d](https://github.com/RoeeHashai/RoeeHashai/assets/114341594/94549d4c-322f-4864-b5fa-733b80d347cb)
 
-- **Multiple Frames Bouncing Ball Animation**
+### Multiple Frames Bouncing Ball Animation
 
 The Multiple Frames Bouncing Ball Animation project is a graphical user interface application that demonstrates ball animation across multiple frames. It showcases the implementation of smooth and visually appealing ball movement in a multi-frame environment. The complete code is hosted on my [GitHub Repository](https://github.com/RoeeHashai/BouncingBallAndLineAnimation). Dive in, explore the code, and create your animations!
   
