@@ -55,9 +55,13 @@
 
 # Recent Projects:
 
-### Merkle Tree
-Python implementation of Merkle Trees with root hashing and proof verification.  
-🔗 [GitHub](https://github.com/RoeeHashai/merkel-tree)
+### Padding Oracle Attack Implementation
+Python demonstration of a CBC-mode padding oracle vulnerability, including attack logic, a simulated oracle server, and a detailed report explaining the method.  
+  🔗 [GitHub Repository](https://github.com/RoeeHashai/Padding-Oracle-Attack)
+
+### Merkle Tree Implementation
+Python implementation for secure data integrity verification using Merkle roots and proofs.  
+  🔗 [GitHub Repository](https://github.com/RoeeHashai/merkel-tree)
 
 ### Full-Stack Facebook-Like Web App
 
