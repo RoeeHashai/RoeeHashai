@@ -59,21 +59,23 @@
 Python demonstration of a CBC-mode padding oracle vulnerability, including attack logic, a simulated oracle server, and a detailed report explaining the method.  
   🔗 [GitHub Repository](https://github.com/RoeeHashai/Padding-Oracle-Attack)
 
+### DNS-Like Server System
+
+A Python-based DNS resolver system simulating real-world DNS behavior with support for A and NS records, recursive resolution, caching, and TTL-based expiration. The system is split into a server, resolver, and client to fully demonstrate the DNS query flow.
+
+🔗 [GitHub Repository](https://github.com/RoeeHashai/DNS-UDP-Server-Resolver-Client)
+
+### HTTP-Like Server System with Unit Testing
+
+A simulated HTTP server written in Python that handles GET requests, persistent connections, redirections, and error responses. Includes a testing suite that validates behavior across file retrievals, timeouts, concurrency, and image transfers. Designed for thorough socket programming practice and protocol behavior validation.
+
+🔗 [Server Repo](https://github.com/RoeeHashai/HTTP-TCP-Server-Client)  
+🔗 [Test Suite Repo](https://github.com/RoeeHashai/Unittest-HTTP-TCP-Server-Client)
+
 ### Merkle Tree Implementation
 Python implementation for secure data integrity verification using Merkle roots and proofs.  
   🔗 [GitHub Repository](https://github.com/RoeeHashai/merkel-tree)
 
-### Full-Stack Facebook-Like Web App
-
-I developed a full end-to-end full-stack Facebook-like web application using React for the front end, Node.js for the back end, and MongoDB for the database.
-
-### C Data Structure: Cache
-
-Implemented a cache-like data structure in C to optimize data retrieval processes.
-
-### C Shell Simulation
-
-Created a C shell that simulates the shell environment with support for multiprocessing.
 
 ### SnakeAI Reinforcement Learning
 
